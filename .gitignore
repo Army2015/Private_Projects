@@ -23,5 +23,5 @@ Build/
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
 
-Public_Library/*
-External_Libraries/*
+Public_Library/
+External_Libraries/
